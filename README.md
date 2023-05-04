@@ -2,7 +2,7 @@
 
 # status
 
-each run returns an array of h_objecst:
+each run returns an array of h_objects:
 For example:
 
 ```json
